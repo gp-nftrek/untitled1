@@ -92,7 +92,7 @@ int monthNumber = 12;
                 System.out.println("winter");
                 break;
             default:
-                System.out.println("no such month");
+                System.out.println("no such m0nth");
         }
 
 
